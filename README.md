@@ -12,11 +12,13 @@
 
 - 💬 Ask me about ****Minecraft,CODING****
 
-- 📫 How to reach me **UNNAT******@gmail.com@gmail.com**
+- 📫 How to reach me **UNNAT******@gmail.com**
 
 - 📫 How to reach me **https://forms.gle/P7CiKZ2vRjBFfeiq8**
 
 - ⚡ Fun fact **I am a Minecraft player .**
+
+- 🌱 MY CURRENT PROJECT ***https://earth.google.com/earth/d/19YH0U6_5wvf_d9m2opC7Sl5KX9nqWei0?usp=sharing***
 
 ## 🚀 Languages and Tools:
 
@@ -37,12 +39,6 @@
 </p>
 
 [![@UNNAT AGRAWAL](https://holopin.me/allensphilip)](https://holopin.io/@allensphilip)
-
-## Connect with me:
-<a herf="https://earth.google.com/earth/d/19YH0U6_5wvf_d9m2opC7Sl5KX9nqWei0?usp=sharing"/> </a>
-<p align="left">
-<p> 
-<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unnat-agrawal&theme=dark&ring=91FF7E&background=45%2C000000%2C144512&border=000000&stroke=54EB80&fire=38EB3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)  
 
