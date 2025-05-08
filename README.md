@@ -37,12 +37,6 @@
     <img src="https://img.icons8.com/color/48/000000/console.png"/>
 
 </p>
-
-[![@UNNAT AGRAWAL](https://holopin.me/allensphilip)](https://holopin.io/@allensphilip)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unnat-agrawal&theme=dark&ring=91FF7E&background=45%2C000000%2C144512&border=000000&stroke=54EB80&fire=38EB3F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EBEBEB)](https://git.io/streak-stats)  
-
-
 <br/>
 
 
