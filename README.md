@@ -8,7 +8,7 @@
 - 🔭 Talents
 ****Coder,Photo editor,Gamer****
 
-- 🌱 I’m currently learning ****Python,Java,C++,MYSQL,ANACONDA,OPENCV,TENSORFLOW****
+- 🌱 I’m currently learning ****Python,Java,C++,MYSQL,ANACONDA,OPENCV****
 
 - 💬 Ask me about ****Minecraft,CODING****
 
